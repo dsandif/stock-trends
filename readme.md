@@ -30,7 +30,7 @@ python stocks.py
 
 5. If you see the error “Invalid API KEY” you need to follow the link  shown in the terminal to sign up and add your api key to the variable yourAPIKEY on line 8 in stocks.py
 
-When you the script completes, it creates a chart named trendy.png in the project that looks similar to the one below. The y-axis will display stock prices as a percentage difference over time.  Play with the ticker symbols on line 6 and repeat step 4 to try out new symbols. You may also play with the date range on line 11. Enjoy!
+When the script completes, it creates a chart named trendy.png in the project that looks similar to the one below. The y-axis will display stock prices as a percentage difference over time.  Play with the ticker symbols on line 6 and repeat step 4 to try out new symbols. You may also play with the date range on line 11. Enjoy!
 
 <img src="https://user-images.githubusercontent.com/3058101/211236779-596a9571-ebf8-4486-8818-d459b9ad0b7e.png" style="height: 300px; width;500px"></img>
 
