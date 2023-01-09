@@ -1,4 +1,4 @@
-# Stock Price Trend Analysis
+# 📈 Stock Price Trend Analysis
 
 A quick python script to analyze price trends
 
